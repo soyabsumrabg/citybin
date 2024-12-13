@@ -835,6 +835,7 @@ function citybin_referral_code_apply($ref_id, $value_id, $value_name) {
     }
 }
 
+// test gutember block
 function tt3child_register_acf_blocks() {
     /**
      * We register our block's with WordPress's handy
